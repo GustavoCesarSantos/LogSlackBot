@@ -15,3 +15,8 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm start
 ```
+
+### Testar
+```
+
+Requisição: POST - http://localhost:3000/
