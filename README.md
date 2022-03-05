@@ -19,4 +19,4 @@ $ npm start
 ### Testar
 ```
 
-Requisição: POST - http://localhost:3000/
+GET - http://localhost:3000/
