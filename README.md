@@ -1,4 +1,5 @@
 ﻿# LogSlackBot
+ #### descrição: POC - envio de mensagens da aplicação para um canal especifico do slack
 
 ### Pré-requisitos
 ---
